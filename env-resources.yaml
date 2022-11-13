@@ -1,0 +1,5 @@
+apiVersion: dev.creometry.com/v1alpha1
+kind: Environment
+metadata:
+  name: dev-environment
+spec: {}
